@@ -40,7 +40,7 @@ print("X_train dim", X_train.shape)
 print("X_test dim", X_test.shape)
 print("y_train dim", y_train.shape)
 print("y_test dim", y_test.shape)
-
+#
 # Embedding＆LSTM
 from keras.models import Model
 from keras.layers import Input, Dense,Embedding,LSTM
